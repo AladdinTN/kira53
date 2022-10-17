@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><ripperInfo>
+<item ctrl="1012" type="0" image="5" text="Normal" tooltip="0" selected="1"/>
+<item ctrl="1013" type="1" image="6" text="iPad" tooltip="0" selected="0"/>
+<item ctrl="1014" type="2" image="7" text="iPad2" tooltip="0" selected="0"/>
+<item ctrl="1015" type="3" image="8" text="iPhone" tooltip="0" selected="0"/>
+<item ctrl="10071" type="4" image="9" text="iPhone4" tooltip="0" selected="0"/>
+<item ctrl="10081" type="5" image="28" text="Galaxy S5" tooltip="0" selected="0"/>
+<item ctrl="1113" type="6" image="11" text="iPod" tooltip="0" selected="0"/>
+<item ctrl="10031" type="7" image="12" text="Apple TV" tooltip="0" selected="0"/>
+<item ctrl="10032" type="8" image="13" text="Apple TV2" tooltip="0" selected="0"/>
+<item ctrl="10033" type="9" image="14" text="PSP" tooltip="0" selected="0"/>
+<item ctrl="10034" type="10" image="15" text="PS3" tooltip="0" selected="0"/>
+<item ctrl="10035" type="11" image="16" text="HTC Nexus One" tooltip="0" selected="0"/>
+<item ctrl="10036" type="12" image="17" text="Galaxy Tab" tooltip="0" selected="0"/>
+<item ctrl="10037" type="13" image="18" text="Galaxy Note" tooltip="0" selected="0"/>
+<item ctrl="10038" type="14" image="19" text="Galaxy S II" tooltip="0" selected="0"/>
+<item ctrl="10039" type="15" image="20" text="Kindle Fire" tooltip="0" selected="0"/>
+<item ctrl="1114" type="16" image="21" text="XBOX 360" tooltip="0" selected="0"/>
+<item ctrl="10041" type="17" image="22" text="NDS" tooltip="0" selected="0"/>
+<item ctrl="10042" type="18" image="23" text="Classic" tooltip="0" selected="0"/>
+<item ctrl="10043" type="19" image="24" text="iPhone5" tooltip="0" selected="0"/>
+<item ctrl="10044" type="20" image="25" text="iPad Mini" tooltip="0" selected="0"/>
+<item ctrl="10045" type="21" image="26" text="Galaxy S III" tooltip="0" selected="0"/>
+</ripperInfo>
